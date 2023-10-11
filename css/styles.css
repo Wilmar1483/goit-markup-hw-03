@@ -1,0 +1,105 @@
+body {
+    font-family: "Roboto", sans-serif ;
+    
+}
+a:link {
+    color: #2E2F42;
+    text-decoration: none;
+}
+a:hover {
+    color: tomato;
+}
+
+button {
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    float: left;
+    border-width: 0px;
+
+}
+button :hover {
+    color: tomato;
+}
+.logo {
+    text-decoration: none;
+    color: #2E2F42;
+    font-family: raleway;
+    font-weight: 800;
+
+}
+.logo :hover {
+    color: tomato;
+}
+
+
+.logo span {
+    color: #4d5ae5;
+    font-family: raleway;
+    font-weight: 800;
+}
+.studio-link {
+    color: #4d5ae5;
+}
+
+
+.main-header-menu {
+    list-style: none;
+    color: #2E2F42;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+
+.main-header-ctas {
+    list-style: none;
+    color: #2E2F42;
+    margin: 0;
+    padding: 0;
+}
+.text {
+    background-color: #2E2F42;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    height: 180px;
+}
+.core {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-family: "roboto";
+}
+.scope {
+    text-align: center;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+.set1 {
+    list-style: none;
+        margin: 0;
+        padding: 0;
+}
+.team {
+    text-align: center;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+.set2 {
+    list-style: none;
+        margin: 0;
+        padding: 0;
+}
+
+footer {
+    text-decoration: none;
+    background-color: #2E2F42;
+        color: white;
+        font-family: raleway;        
+}
+footer span {
+    color: #4d5ae5;
+        font-family: raleway;
+        font-weight: 800;
+}
